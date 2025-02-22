@@ -2,6 +2,8 @@
 
 ---
 
+![Image](https://github.com/user-attachments/assets/3ad88b6e-7159-44a2-a004-c909b974a88c)
+
 #### Dosen Pengampu :
 **Dr. Ferry Astika Saputra ST, M.Sc.**
 
