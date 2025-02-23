@@ -358,7 +358,7 @@ Jadi hasil **Binary Coded Decimal (BCD)** dari **1987₁₀** adalah: **<ins>000
 
 Tambahkan nol di depan agar kelipatan 3-bit:  
 
-011 111 101 001₂**
+011 111 101 001₂
 
 
 ##### **Konversi Setiap Grup ke Oktal**
