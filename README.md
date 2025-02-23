@@ -221,7 +221,7 @@ Jadi hasil konversi bilangan desimal pecahan **11,625₁₀** ke bilangan **bine
 ---
 
 10.  Konversikan bilangan desimal di bawah ini ke dalam bilangan heksadesimal!
-    - 348,645₁₀
+     - 348,645₁₀
 
 **Jawaban:**
 
@@ -255,7 +255,7 @@ Jadi hasil konversi bilangan desimal pecahan **348,654₁₀** ke bilangan **hek
 ---
 
 11.   Konversikan bilangan di bawah ini ke dalam bilangan desimal!
-     - 010100011,001111101₂
+      - 010100011,001111101₂
 
 **Jawaban:**
 
@@ -269,9 +269,7 @@ Jadi hasil konversi bilangan desimal pecahan **348,654₁₀** ke bilangan **hek
 | Nilai     | 0 | 1×128 | 0 | 1×32 | 0 | 0 | 0 | 1×2 | 1×1 |
 
 **Perhitungan:**
-\[
-(1×128) + (1×32) + (1×2) + (1×1) = 163_{10}
-\]
+(1 × 128) + (1 × 32) + (1 × 2) + (1 × 1) = 163₁₀
 
 **010100011₂ = 163₁₀**.
 
@@ -285,9 +283,7 @@ Jadi hasil konversi bilangan desimal pecahan **348,654₁₀** ke bilangan **hek
 | Nilai     | 0 | 0 | 1/8 | 1/16 | 1/32 | 1/64 | 1/128 | 0 | 1/512 |
 
 **Perhitungan:**
-\[
-\left( \frac{1}{8} + \frac{1}{16} + \frac{1}{32} + \frac{1}{64} + \frac{1}{128} + \frac{1}{512} \right) = 0.244140625_{10}
-\]
+(1 ÷ 8) + (1 ÷ 16) + (1 ÷ 32) + (1 ÷ 64) + (1 ÷ 128) + (1 ÷ 512) = 0.244140625₁₀
 
 **0,001111101₂ = 0.244140625₁₀**.
 
@@ -298,7 +294,7 @@ Jadi hasil konversi bilangan **010100011,001111101₂** ke **Desimal** adalah: *
 
 ---
 
-12. Rubahlah bilangan biner di bawah ini ke dalam bentu BCD (Binary Coded Decimal)!
+12.  Rubahlah bilangan biner di bawah ini ke dalam bentu BCD (Binary Coded Decimal)!
      - 10100110000111₂
   
 **Jawaban:**
@@ -307,15 +303,12 @@ Jadi hasil konversi bilangan **010100011,001111101₂** ke **Desimal** adalah: *
 
 ###### Kelompokkan Biner dalam 4-bit dari Kanan**
 
-\[
-\mathbf{10\ 1001\ 1000\ 0111}
-\]
+**10 1001 1000 0111**
+
 
 Karena digit paling kiri tidak cukup 4-bit, kita tambahkan **0** di depannya:
 
-\[
-\mathbf{0010\ 1001\ 1000\ 0111}
-\]
+**0010 1001 1000 0111**
 
 &nbsp;
 
@@ -355,19 +348,17 @@ Jadi hasil **Binary Coded Decimal (BCD)** dari **1987₁₀** adalah: **<ins>000
 ---
 
 14.   Rubahlah bilangan biner di bawah ini kedalam BCO (Binary Coded Octal)!
-    - 11111101001₂
+      - 11111101001₂
 
 **Jawaban:**
 
 ##### **Kelompokkan 3-bit dari Kanan**
-\[
-11\ 111\ 101\ 001_2
-\]
+
+11 111 101 001₂
 
 Tambahkan nol di depan agar kelipatan 3-bit:  
-\[
-011\ 111\ 101\ 001_2
-\]
+
+011 111 101 001₂**
 
 
 ##### **Konversi Setiap Grup ke Oktal**
@@ -388,9 +379,8 @@ Jadi hasil **Binary Coded Octal (BCO)** dari **11111101001₂** adalah: **<ins>3
 **Jawaban:**
 
 ##### **Kelompokkan 4-bit dari Kanan**
-\[
-1101\ 1111\ 0010\ 1110_2
-\]
+
+1101 1111 0010 1110₂
 
 ##### **Konversi Setiap Grup ke Heksadesimal**
 | Biner (4-bit) | Heksadesimal |
@@ -405,7 +395,7 @@ Jadi hasil **Binary Coded Hexadecimal (BCH)** dari **1101111100101110₂** adala
 ---
 
 16.  Rubahlah bentuk BCH di bawah ini ke dalam bilangan heksadesimal!
-    - F0DE₁₆
+     - F0DE₁₆
 
 **Jawaban:**
 
@@ -422,8 +412,8 @@ Jadi hasil konversi **BCH F0DE₁₆** ke **bilangan biner** adalah: **<ins>1111
 
 ---
 
-1.  Nyatakan positif / negatif bilangan biner di bawah ini!
-    - 01111111 
+17.  Nyatakan positif / negatif bilangan biner di bawah ini!
+     - 01111111 
 
 **Jawaban:**
 
@@ -436,24 +426,16 @@ Jadi hasil konversi **BCH F0DE₁₆** ke **bilangan biner** adalah: **<ins>1111
 |------------|---|---|---|---|---|---|---|---|
 | Nilai (2ⁿ) | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
 
-\[
-= (0 \times 128) + (1 \times 64) + (1 \times 32) + (1 \times 16) + (1 \times 8) + (1 \times 4) + (1 \times 2) + (1 \times 1)
-\]
-
-\[
+= (0 × 128) + (1 × 64) + (1 × 32) + (1 × 16) + (1 × 8) + (1 × 4) + (1 × 2) + (1 × 1)
 = 0 + 64 + 32 + 16 + 8 + 4 + 2 + 1
-\]
-
-\[
-= 127_{10}
-\]
+= 127₁₀
 
 Bilangan **01111111₂** adalah **positif** dan bernilai **<ins>127₁₀** dalam sistem desimal.
 
 ---
 
 18.  Nyatakan bilangan biner negatif di bawah ini ke dalam bilangan desimal!
-     - 10001000 
+     - 10001000₂
   
 **Jawaban:**
 
@@ -461,13 +443,10 @@ Bilangan **01111111₂** adalah **positif** dan bernilai **<ins>127₁₀** dala
 
 ##### Invers Semua Bit 
 Mengubah semua bit (0 menjadi 1, dan 1 menjadi 0):  
-\[
-10001000_2 \to 01110111_2
-\]
 
-\[
-01110111_2 + 1_2 = 01111000_2
-\]
+10001000₂ menjadi 01110111₂
+01110111₂ + 1₂ = <ins>01111000₂
+
 
 ##### Konversi Biner ke Desimal
 
@@ -475,22 +454,14 @@ Mengubah semua bit (0 menjadi 1, dan 1 menjadi 0):
 |------------|---|---|---|---|---|---|---|---|
 | Nilai (2ⁿ) | 128 | 64 | 32 | 16 | 8 | 0 | 0 | 0 |
 
-\[
-= (0 \times 128) + (1 \times 64) + (1 \times 32) + (1 \times 16) + (1 \times 8) + (0 \times 4) + (0 \times 2) + (0 \times 1)
-\]
-
-\[
+= (0 × 128) + (1 × 64) + (1 × 32) + (1 × 16) + (1 × 8) + (0 × 4) + (0 × 2) + (0 × 1)
 = 0 + 64 + 32 + 16 + 8 + 0 + 0 + 0
-\]
-
-\[
-= 120_{10}
-\]
+= 120₁₀
 
 Karena bilangan awal adalah **negatif**, maka:  
-\[
-10001000_2 = -120_{10}
-\]
+
+10001000₂ = -120₁₀
+
 
 Bilangan **10001000₂** adalah **negatif** dan bernilai **<ins>−120₁₀** dalam sistem desimal.
 
@@ -508,13 +479,9 @@ Bilangan **10001000₂** adalah **negatif** dan bernilai **<ins>−120₁₀** d
 | 4 (×16¹)         | 4 × 16 = 64  |
 | 1 (×16⁰)         | 1 × 1  = 1   |
 
-\[
-= 64 + 1
-\]
 
-\[
-= 65_{10}
-\]
+= 64 + 1
+= 65₁₀
 
 Nilai **65** dalam **tabel ASCII** adalah huruf **'A'**.
 
@@ -522,8 +489,8 @@ Jadi bilangan **41₁₆** dalam **ASCII** merepresentasikan karakter **<ins>'A'
 
 ---
 
-20. Nyatakan karakter di bawah ini dalam ASCII Code!
-    - a
+20.  Nyatakan karakter di bawah ini dalam ASCII Code!
+     - a
 
 **Jawaban:**
 
@@ -531,19 +498,14 @@ Dalam **tabel ASCII**, huruf kecil **'a'** memiliki nilai **97₁₀**.
 
 Bilangan **9710** dikonversi ke **basis 16**:
 
-\[
-97 \div 16 = 6, \text{sisa } 1
-\]
-
-\[
-97_{10} = 61_{16}
-\]
+97 ÷ 16 = 6, sisa 1
+97₁₀ = 61₁₆
 
 Jadi bilangan **ASCII** dari **'a'** dalam **heksadesimal** adalah **<ins>61₁₆**.
 
 ---
 
-21. Dengan keyboard standard ASCII, pada layar monitor nampak tulisan sebagai berikut:
+21.  Dengan keyboard standard ASCII, pada layar monitor nampak tulisan sebagai berikut:
 
 >    **PRINT X**
 
