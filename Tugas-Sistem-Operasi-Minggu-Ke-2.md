@@ -93,19 +93,19 @@ By **enforcing these access levels**, the OS maintains security, stability, and 
 ---
 
 #### 1.6 )	Which of the following instructions should be privileged?
->a. Set value of timer.
+a. Set value of timer.
 b. Read the clock.
 c. Clear memory.
 d. Issue a trap instruction.
 e. Turn off interrupts.
 f. Modify entries in device-status table.
 g. Switch from user to kernel mode.
->h. Acces I/O device.
+h. Acces I/O device.
 
 
 **⚡Answer :**
 
->Privileged :
+Privileged :
 a.	Set value of timer: Prevents user programs from disabling time-sharing.
 c.	Clear memory: Prevents unauthorized memory access or deletion.
 e.	Turn off interrupts: Prevents user programs from blocking OS control.
@@ -113,7 +113,7 @@ f.	Modify entries in device-status table: Controls hardware access and must be r
 g.	Switch from user to kernel mode: Only the OS should control mode switching.
 h.	Access I/O device: Direct I/O access could lead to security risk or resource conflicts.
 
->Non-Priviliged :
+Non-Priviliged :
 b.	Read the clock: Simply retrieves time, no security risk.
 d.	Issue a trap instruction: Used by programs to request OS services
 
