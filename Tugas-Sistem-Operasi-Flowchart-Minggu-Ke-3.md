@@ -46,7 +46,9 @@ When a computer is powered on, it undergoes several steps to initialize hardware
 ## ⭐Flowchart :
 
 <div align="center">
+  
 ![Image](https://github.com/user-attachments/assets/47c3f6c5-730b-42f9-a035-bcdf9446fc5b)
+
 </div>
 
 ---
