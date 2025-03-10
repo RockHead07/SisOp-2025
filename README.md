@@ -2,7 +2,7 @@
   style="
   align-items=center;">
   
-  </div>
+ 
 
 # MATA KULIAH SISTEM OPERASI
 
@@ -22,3 +22,5 @@
 > 2025
 
 ---
+
+ </div>
