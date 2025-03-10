@@ -1,3 +1,5 @@
+<div align="center">
+
 # TUGAS SISTEM OPERASI MINGGU KE-1
 
 ---
@@ -16,6 +18,8 @@
 > 2025
 
 ---
+
+</div>
 
 #### SISTEM BILANGAN Desimal, Biner, Oktal, & Heksadesimal.
 
