@@ -1,3 +1,5 @@
+<div align="center">
+
 # LAPORAN RESMI SISTEM OPERASI
 ### Minggu ke-2
 
@@ -17,6 +19,8 @@
 > 2025
 
 ---
+
+</div>
 
 # 1️⃣Introduction to OS.
 
