@@ -1,8 +1,4 @@
-<div
-  style="
-  align-items=center;">
-  
- 
+<div align="center">
 
 # MATA KULIAH SISTEM OPERASI
 
@@ -23,4 +19,4 @@
 
 ---
 
- </div>
+</div>
