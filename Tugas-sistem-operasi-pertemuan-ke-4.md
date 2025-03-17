@@ -1,0 +1,119 @@
+# 📖Penugasan
+
+Membuat resume menggunakan bhs indonesia dari **1.34 transition from user to kernel mode** sampai **pada 1.40 caching.**
+
+---
+
+## 📝List slide Tugas :
+
+-	1.34 Transition from User to Kernel Mode
+-	1.35 Process Management
+-	1.36 Process Management Activities
+-	1.37 Memory Management
+-	1.38 File-system Management
+-	1.39 Mass Storage Management
+-	1.40 Caching
+
+---
+
+### 📌1.34 Transition from User to Kernel Mode
+
+Untuk mencegah terjadinya **proses/looping (pengulangan)** tak terbatas & pengunaan sumber daya yang berlebih, memerlukan **Timer** :
+
+-	Mengatur **timer** agar dapat menginterupsi computer pada waktu tertentu.
+-	Menggunakan **counter** yang nantinya akan dikurangi oleh jam fisik.
+-	Mengatur **counter** OS (intruksi khusus)
+-	Saat **counter** menyentuh angka 0 akan terjadi interupsi.
+-	Menetapkan proses penjadwalan sebelum agar dapat memegang kendali/menghentikan suatu program yang melebihi batas waktu.
+
+---
+
+### 📌1.35 Process Management
+
+Proses merupakan suatu program yang sedang dieksekusi & merupakan unit kerja dalam sistem. Program merupakan **entitas pasif**, sedangkan proses merupakan **entitas aktif**. 
+
+#### 🔃Proses juga tentunya membutuhkan sumber daya agar dapat menyelesaikan tugasnya, dengan mengandalkan :
+-	CPU, memory, I/O, files
+-	Insialisasi data
+
+Saat proses diterminasi, sisa sumber daya yang masih dapat digunakan harus dikembalikan.
+
+**1️⃣Proses single-threaded :** Memiliki satu program counter & dieksekusi secara berurutan hingga selesai.
+**2️⃣Proses multi-threaded :** Memilik satu program counter per thread.
+
+Sistem juga biasanya menjalankan banyak proses secara bersamaan, baik dari user ataupun dari OS. Lalu konruensi dicapai dengan membagi waktu penggunaan CPU di anatar proses & thread.
+
+---
+
+### 📌1.36 Process Management Activities
+
+#### 🪜Sistem operasi memiliki tanggung jawab terhadap aktivitas dan koneksi dalam proses manajemen, yang meliputi :
+
+1️⃣Membuat dan menghapus proses user & sistem.
+2️⃣Menghentikan sementara & melanjutkan proses.
+3️⃣Menyediakan mekanisme untuk proses sinkronisasi.
+4️⃣Menyediakan mekanisme untuk proses komunikasi.
+5️⃣Menyediakan mekanisme untuk mengatasi deadlock.
+
+---
+
+### 📌1.37 Memory Management 
+
+Untuk menjalankan sebuah program, seluruh/sebagian intruksi harus berada di dalam memori. Begitu juga dengan data, data yang dibutuhkan oleh program harus berada di dalam memori juga.
+
+Manajemen memori menentukan apa yang ada dalam memori dan kapan. Bertujuan untuk mengoptimalkan kinerja CPU & respon computer terhadap user.
+
+#### 📄Berikut beberapa aktivitas manajemen memori :
+-	Melacak bagian memori manakah yang sedang digunakan dan digunakan oleh siapa.
+-	Menentukan proses/data mana yang harus dimasukkan pada memori atau dikeluarkan pada memori.
+-	Mengalokasi & membebaskan ruang memori yang dibutuhkan.
+
+---
+
+### 📌1.38 File-system Management
+
+OS menyediakan pandangan logis yang seragam terhadap informasi penyimpanan. Dan mengabstraksi properti fisik menjadi tempat unit penyimpanan logis (file). 
+
+Dan setiap media dikendalikan oleh disk drive, dengan ciri khas yang berbeda beda, seperti kecepatan akses, kapasitas, kecepatan transfer data, & metode akses.
+
+#### 💾File-System management
+
+File ini biasanya sudah terorganisir dalam direktori. Lalu kontrol akses akan menentukan siapa yang dapat mengakses data tersebut. Aktivitas OS biasanya meliputi :
+
+-	Membuat dan menghapus file serta direktori.
+-	Menyediakan operasi dasar agar dapat memanipulasi file & direktori.
+-	Memetakan file ke penyimpanan sekunder.
+-	Meng-backup file ke media penyimpanan yang stabil.
+
+---
+
+### 📌1.39 Mass-Storage Management
+
+Disk biasanya digunakan untuk menyimpan data yang tidak muat pada memori utama/data yang harus disimpan dalam jangka waktu yang lama. 
+
+Manajmen disk yang baik sangat penting karena kecepatan dalam mengoperasikan computer sangat bergantung pada subsistem disk dan algoritmanya. 
+
+#### 💿Berikut aktivitas OS, meliputi :
+
+-	Mounting dan unmounting pada perangkat penyimpanan.
+-	Mengelola ruang kosong.
+-	Mengalokasikan ruang penyimpanan.
+-	Menjadwalkan akses disk.
+-	Melakukan partisi.
+-	Meningkatkan perlindungan.
+
+Namun, beberapa ruang penyimpanan tidak harus beroperasi secara cepat. Contohnya, seperti: Optical storage, magnetic tape. Namun, penyimpanan ini masih perlu dikelola lagi oleh OS/aplikasi agar berjalan secara optimal.
+
+---
+
+### 📌1.40 Caching
+
+Cache berjalan di berbagai level dalam computer (pada hardware, OS, software). Informasi yang sedang digunakan disalin sementara dari penyimpanan yang lebih lambat ke penyimpanan lebih cepat (cache).
+
+#### 🔎Proses pencarian data :
+
+-	Jika data ada di cache, digunakan secara langsung & cepat.
+-	Jika data tidak ada di cache, data disalin ke cache sebelum digunakan & proses agak lambat.
+
+Ukuran cache juga lebih kecil dari pada penyimpanan utama. Dan manajemen cache menjadi sebuah tantangan untuk di design, termasuk ukuran cache dan kebijakan perubahan data.
+
