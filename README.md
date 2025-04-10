@@ -23,5 +23,5 @@
 
 ## 📂Daftar Penugasan :
 
-- [1. Tugas-Sistem-Bilangan.md](1.-Tugas-Sistem-Bilangan.md)
-- [2. Tugas-Sistem-Operasi.md](2.-Tugas-Sistem-Operasi.md)
+- [1. Tugas-Sistem-Bilangan.md](1.Tugas-Sistem-Bilangan.md)
+- [2. Tugas-Sistem-Operasi.md](2.Tugas-Sistem-Operasi.md)
