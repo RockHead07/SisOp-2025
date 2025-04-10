@@ -21,7 +21,14 @@
 
 </div>
 
-## 📂Daftar Penugasan :
+## 📘 Daftar Tugas
 
-- [1. Tugas-Sistem-Bilangan.md](1.Tugas-Sistem-Bilangan.md)
-- [2. Tugas-Sistem-Operasi.md](2.Tugas-Sistem-Operasi.md)
+| No | Judul Tugas                               | File                                                  |
+|----|--------------------------------------------|-------------------------------------------------------|
+| 1  | Sistem Bilangan                           | [📄 Lihat File](1.-Tugas-Sistem-Bilangan.md)          |
+| 2  | Sistem Operasi                            | [📄 Lihat File](2.-Tugas-Sistem-Operasi.md)           |
+| 3  | Sistem Operasi: Flops                     | [📄 Lihat File](3.-Tugas-Sistem-Operasi-Flops.md)     |
+| 4  | Resume 1.34 - 1.36                        | [📄 Lihat File](4.-Tugas-resume-1.34-sampai-1.36.md)  |
+| 5  | Flops-lops                                | [📄 Lihat File](5.-Tugas-Flops-lops.md)               |
+| 6  | Resume APPENDIX                           | [📄 Lihat File](5.-Tugas-Resume-APPENDIX.md)          |
+| 7  | Fork()                                    | [📄 Lihat File](6.-Tugas-Fork().md)                   |
