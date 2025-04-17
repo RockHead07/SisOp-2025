@@ -25,10 +25,10 @@
 
 | No | Judul Tugas                               | File                                                  |
 |----|--------------------------------------------|-------------------------------------------------------|
-| 1  | Sistem Bilangan                           | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/1.%20Tugas-Sistem-Bilangan.md)          |
-| 2  | Sistem Operasi                            | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/2.%20Tugas-Sistem-Operasi.md)           |
-| 3  | Sistem Operasi: Flops                     | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/3.%20Tugas-Sistem-Operasi-Flowchart.md)     |
-| 4  | Resume 1.34 - 1.36                        | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/4.%20Tugas-resume-1.34-sampai-1.40.md)  |
-| 5  | Flops-lops                                | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/5.%20Tugas-Flops-Iops.md)               |
-| 6  | Resume APPENDIX                           | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/5.%20Tugas-Resume-APPENDIX-A.md)          |
-| 7  | Fork()                                    | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/6.%20Tugas-Fork().md)                   |
+| 1  | Sistem Bilangan                             | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/1.%20Tugas-Sistem-Bilangan.md)          |
+| 2  | Sistem Operasi                              | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/2.%20Tugas-Sistem-Operasi.md)           |
+| 3  | Sistem Operasi: Flops                       | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/3.%20Tugas-Sistem-Operasi-Flowchart.md)     |
+| 4  | Resume 1.34 - 1.36                          | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/4.%20Tugas-resume-1.34-sampai-1.40.md)  |
+| 5  | Flops-lops                                  | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/5.%20Tugas-Flops-Iops.md)               |
+| 6  | Resume APPENDIX                             | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/5.%20Tugas-Resume-APPENDIX-A.md)          |
+| 6  | Fork()                                      | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/6.%20Tugas-Fork().md)                   |
