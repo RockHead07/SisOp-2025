@@ -22,18 +22,18 @@
 </div>
 
 # 📖Penugasan
-- Jelaskan dalam **2 paragraf**, disertai dengan gambar tentang **konsep single thread & multithread!**
+1. Jelaskan dalam **2 paragraf**, disertai dengan gambar tentang **konsep single thread & multithread!**
 
-- Kerjakan Programming Exercise:
+2. Kerjakan Programming Exercise:
 >    -	Penerapan thread pada contoh SumTask.java.
 >    -	Penerapan thread di Linux (thrd-posix.c).
 >    -	Penerapan thread di Microsoft Windows (thrd-win32.c).
 
 Beri penjelasan dalam bentuk **esay**. Gunakan link https://github.com/ferryastika/osc10e/tree/master/ch4.
 
-- Buat **PPT tentang evolusi teknologi Processor Intel** dengan menggunakan refrensi : https://www.youtube.com/watch?v=PT787d9odKk.
+3. Buat **PPT tentang evolusi teknologi Processor Intel** dengan menggunakan refrensi : https://www.youtube.com/watch?v=PT787d9odKk.
 
-- Jawab pertanyaan ***practice exercise*** pada **chapter 4** (Jawaban menggunakan **bahasa indoensia**, boleh memakai translator, namun harus dirubah lagi).
+4. Jawab pertanyaan ***practice exercise*** pada **chapter 4** (Jawaban menggunakan **bahasa indoensia**, boleh memakai translator, namun harus dirubah lagi).
 
 📍Semua pekerjaan dilaporkan dalam bentuk tulisan di **GitHub**. Pengumpulan di **ethol** hanya **link repository** saja.
 
