@@ -38,3 +38,13 @@ Beri penjelasan dalam bentuk **esay**. Gunakan link https://github.com/ferryasti
 📍Semua pekerjaan dilaporkan dalam bentuk tulisan di **GitHub**. Pengumpulan di **ethol** hanya **link repository** saja.
 
 ---
+
+### 📁 7. Praktikum: Sistem Operasi - Chapter 4
+
+| 📄 No | Nama File                                  | Tipe File | 🔗 Link                                                                 |
+|------:|--------------------------------------------|-----------|------------------------------------------------------------------------|
+| 1     | Single Thread & Multithread                | `.md`     | [📄 Lihat](https://github.com/RockHead07/SisOp-2025/blob/main/7.%20Tugas-Sistem-Operasi-Ch4/1.%20Single%20Thread%20&%20Multithread.md) |
+| 2     | Programming Exercises                      | `.md`     | [📄 Lihat](https://github.com/RockHead07/SisOp-2025/blob/main/7.%20Tugas-Sistem-Operasi-Ch4/2.%20Programming-Exercises.md) |
+| 3     | Evolusi Intel (Compressed)                 | `.pdf`    | [📎 Lihat](https://github.com/RockHead07/SisOp-2025/blob/main/7.%20Tugas-Sistem-Operasi-Ch4/3.%20Evolusi-Intel_compressed.pdf) |
+| 4     | Practice Exercise                          | `.md`     | [📄 Lihat](https://github.com/RockHead07/SisOp-2025/blob/main/7.%20Tugas-Sistem-Operasi-Ch4/4.%20Pratice-Exercise.md) |
+| 5     | README                                      | `.md`     | [📘 Lihat](https://github.com/RockHead07/SisOp-2025/blob/main/7.%20Tugas-Si)
