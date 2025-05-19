@@ -33,6 +33,7 @@
 | 6     | Resume APPENDIX A                           | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/5.%20Tugas-Resume-APPENDIX-A.md)        |
 | 7     | Fork() Process                              | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/6.%20Tugas-Fork().md)                   |
 | 8     | CPU Scheduling                              | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/8.%20CPU-Scheduling.md)                 |
+| 9     | Praktikum: Sistem Operasi - Chapter 4       | [📁 Buka Folder](https://github.com/RockHead07/SisOp-2025/tree/main/7.%20Tugas-Sistem-Operasi-Ch4)         |
 
 ---
 
