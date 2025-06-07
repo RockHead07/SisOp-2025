@@ -38,4 +38,11 @@
 
 ---
 
-📌 **Catatan**: File dapat diperbarui sewaktu-waktu mengikuti perkembangan tugas yang dikerjakan.
+# 📍 Penugasan Semester 2 Ini Telah Selesai 🎉
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5sZnI0YnZjbmttOGM5OGVvOWcxMjhuMnFzOHlpbmo0NTVkcmRrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" alt="Mission Complete" width="400"/>
+
+Dengan selesainya penugasan ini, saya mengucapkan terima kasih yang sebesar-besarnya kepada Bapak **Dr. Ferry Astika Saputra, ST, M.Sc.** atas bimbingan, arahan, dan ilmu yang telah diberikan selama semester 2 ini.
+
+<a href="https://github.com/ferryastika" style="display: inline-block; background-color: #24292e; color: white; padding: 8px 16px; text-align: center; border-radius: 6px; text-decoration: none; font-weight: bold; font-family: sans-serif;">
+🔗 Kunjungi GitHub Beliau
+</a>
