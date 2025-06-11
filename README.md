@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📘 MATA KULIAH SISTEM OPERASI
+# MATA KULIAH SISTEM OPERASI
 
 ---
 
