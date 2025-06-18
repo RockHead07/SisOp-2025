@@ -23,6 +23,8 @@
 
 ## 📂 Daftar Tugas
 
+<div align="center">
+
 | 📄 No | Judul Tugas                                 | 🔗 File                                                                 |
 |:----:|----------------------------------------------|------------------------------------------------------------------------|
 | 1    | Sistem Bilangan                              | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/1.%20Tugas-Sistem-Bilangan.md)          |
@@ -36,7 +38,7 @@
 | 9    | CPU Scheduling                               | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/8.%20CPU-Scheduling.md)                 |
 | 10   | Tugas Tambahan: Interview (Flow & Logic)     | [📄 Lihat File](https://github.com/RockHead07/SisOp-2025/blob/main/10.%20Tugas-Tambahan-Interview-(flow-%26-logic-program).md) |
 
----
+</div>
 
 # 📍 Penugasan Semester 2 Ini Telah Selesai 🎉
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5sZnI0YnZjbmttOGM5OGVvOWcxMjhuMnFzOHlpbmo0NTVkcmRrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" alt="Mission Complete" width="400"/>
