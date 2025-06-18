@@ -1,25 +1,27 @@
 <div align="center">
 
-# MATA KULIAH SISTEM OPERASI
+<h1> MATA KULIAH SISTEM OPERASI </h1>
 
----
+![Image](https://github.com/user-attachments/assets/3ad88b6e-7159-44a2-a004-c909b974a88c)
 
-<img src="https://github.com/user-attachments/assets/3ad88b6e-7159-44a2-a004-c909b974a88c" alt="Course Banner" width="600"/>
+<h3> Dosen Pengampu: </h3>
 
-### Dosen Pengampu:
 **Dr. Ferry Astika Saputra, ST, M.Sc.**
 
-### Disusun Oleh: 
-**Bagus Insan Pradana** — D3 IT A — **(3214521007)**
+<h3> Disusun Oleh: </h3> 
 
-> PROGRAM STUDI D3 TEKNIK INFORMATIKA PSDKU LAMONGAN  
-> DEPARTEMEN TEKNIK INFORMATIKA DAN KOMPUTER  
-> POLITEKNIK ELEKTRONIKA NEGERI SURABAYA  
-> **2025**
+**Bagus Insan Pradana** D3 IT A **(3214521007)**
+
+PROGRAM STUDI D3 TEKNIK INFORMATIKA PSDKU LAMONGAN  
+DEPARTEMEN TEKNIK INFORMATIKA DAN KOMPUTER  
+POLITEKNIK ELEKTRONIKA NEGERI SURABAYA  
+**2025**
 
 ---
 
 </div>
+
+<br>
 
 ## 📂 Daftar Tugas
 
